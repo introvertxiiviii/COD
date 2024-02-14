@@ -1,0 +1,12 @@
+@import "./global/global.css";
+@import "./header/header.css";
+@import "./home/home.css";
+@import "./features/features.css";
+@import "./banner/banner.css";
+@import "./heroes/heroes.css";
+@import "./gun/gun.css";
+@import "./banner-2/banner-2.css";
+@import "./features-2/features-2.css";
+@import "./modern/modern.css";
+@import "./banner-3/banner-3.css";
+@import "./footer/footer.css";

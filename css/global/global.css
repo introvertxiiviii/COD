@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+body {
+  max-width: 1400px;
+  margin: 0 auto;
+  font-family: "Modern Warfare", Arial, Helvetica, sans-serif;
+  background-color: #110c09;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 400;
+}
+.js-scroll {
+  opacity: 0;
+  transform: translate3d(-200px, 0, 0);
+  transition: 0.8s;
+}
+.js-scroll.animar {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
